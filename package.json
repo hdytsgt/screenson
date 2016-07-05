@@ -1,0 +1,32 @@
+{
+  "name": "screenson",
+  "productName": "screenson",
+  "description": "An Electron-based app for capturing site screenshots of responsive websites.",
+  "version": "0.0.1",
+  "author": "Hidayat Sagita",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdytsgt/screenson.git" 
+  },
+  "dependencies": {
+    "electron-reload": "^1.0.0",
+    "jquery": "^3.0.0",
+    "pageres": "^4.1.2",
+    "titlebar": "^1.4.0",
+    "valid-url": "^1.0.9"
+  },
+  "keywords": [
+    "Electron",
+    "Node",
+    "Js",
+    "Node.js",
+    "Responsive",
+    "Responsive Design",
+    "Screenshot",
+    "Screen Capture"
+  ]
+}
