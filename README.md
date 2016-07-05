@@ -1,4 +1,4 @@
-# ![screenson](https://raw.githubusercontent.com/hdytsgt/screenson/master/media/logo.png | width=300)
+# ![screenson](https://raw.githubusercontent.com/hdytsgt/screenson/master/media/logo.png)
 
 An Electron-based app for capturing site screenshots of responsive websites. Have a look the app in action below :
 
