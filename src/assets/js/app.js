@@ -42,9 +42,9 @@ $( document ).ready( () => {
 		$( 'h1' ).removeClass( 'hidden' ).addClass( 'fadeInUp animated' );
 
 		window.setTimeout( () => {
-			//$( '.panel.hidden:first' ).removeClass( 'hidden' ).addClass( 'fadeInUp animated' );
-			//$( 'h1' ).hide();
-			//$( '#site' ).focus();
+			$( '.panel.hidden:first' ).removeClass( 'hidden' ).addClass( 'fadeInUp animated' );
+			$( 'h1' ).hide();
+			$( '#site' ).focus();
 		}, 1500);
 
 	}, 500);
