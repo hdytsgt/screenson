@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 100;
+  src: url("fonts/sanfranciscodisplay-ultralight-webfont.woff");
+}
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 200;
+  src: url("fonts/sanfranciscodisplay-thin-webfont.woff");
+}
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("fonts/sanfranciscodisplay-regular-webfont.woff");
+}
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("fonts/sanfranciscodisplay-medium-webfont.woff");
+}
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 600;
+  src: url("fonts/sanfranciscodisplay-semibold-webfont.woff");
+}
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("fonts/sanfranciscodisplay-bold-webfont.woff");
+}
+
+html {
+  height: 100%;
+}
+
+body {
+	font-family: 'San Francisco', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	padding: 0 25px;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	background: #2ecc71;
+	color: #fff;
+  overflow: hidden;
+}
+
+.buttons {
+  position: absolute;
+  top: 20px;
+  right: 0;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.wrapper > div {
+  display: block;
+  margin: 12% auto 0;
+}
+
+.wrapper > div p {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: -15px;
+}
+
+.shot img {
+  left: 50%;
+  margin-left: -568px;
+  position: absolute;
+  bottom: -280px;
+}
