@@ -21,7 +21,7 @@ An Electron-based app for capturing site screenshots of responsive websites. Hav
    ​
 
 
-## Developing
+## Development Setup
 
 1. Pull this repo
 
