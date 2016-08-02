@@ -35,6 +35,12 @@ An Electron-based app for capturing site screenshots of responsive websites. Hav
 
    ​
 
+## License
+
+[MIT](LICENSE)
+
+
+
 ## Credits
 
 [Linearicons](https://linearicons.com/free), [Pageres](https://github.com/sindresorhus/pageres), [Animated Checkmark](https://gist.github.com/tkh44/538dabcab1c44c9901ae)
