@@ -27,7 +27,7 @@ An Electron-based app for capturing site screenshots of responsive websites. Hav
 
 2. Go to **screenson** folder and run `npm install`
 
-3. Make sure you've installed [Electron Prebuild](https://github.com/electron-userland/electron-prebuilt)
+3. Make sure you've installed [Electron Prebuilt](https://github.com/electron-userland/electron-prebuilt)
 
 4. Run `electron .` 
 
